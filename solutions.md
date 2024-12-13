@@ -50,13 +50,13 @@ return result;
    "timeMax": "2024-12-30T23:59:59Z",
    "items": [
    {
-   "id": "anjalikudagamage@gmail.com"
+   "id": ""
    }
    ]
    }
 
 4. Steps:
-   - Obtain Calendar ID: “anjalikudagamage@gmail.com”.
+   - Obtain Calendar ID
    - Ensure Calendar is public for API key access.
    - Send the request using Postman or a REST client.
 
